@@ -1,2 +1,3 @@
 xin chao day la branch master
-toi ten la Master
+toi yeu cac ban
+cac ban co yeu toi khong
